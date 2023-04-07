@@ -9,17 +9,17 @@ This is an example of experiment setting, consisted of introduction, consent, st
 
 ## Procedure at a Glance
 
-![procedure](./images/procedure.png)
+<img src="./images/procedure.png" width="200">
 
-![1](./images/1.png){: width="100" height="50"}
+<img src="./images/1.png" width="200">
 
-![2](./images/2.png){: width="100" height="50"}
+<img src="./images/2.png" width="200">
 
-![3](./images/3.png){: width="100" height="50"}
+<img src="./images/3.png" width="200">
 
-![4](./images/4.png){: width="100" height="50"}
+<img src="./images/4.png" width="200">
 
-![5](./images/5.png){: width="100" height="50"}
+<img src="./images/5.png" width="200">
 <br><br>
 ## Notes: Branch, Condition, Jump to the Last Routine<br>
 #### Branch<br>
