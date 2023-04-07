@@ -9,4 +9,4 @@ This is an example of experiment setting, consisted of introduction, consent, st
 
 ## Procedure at a Glance
 
-<img scr=/images/procedure>
+<img scr="/images/procedure">
