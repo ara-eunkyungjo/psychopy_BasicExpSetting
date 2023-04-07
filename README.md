@@ -11,15 +11,15 @@ This is an example of experiment setting, consisted of introduction, consent, st
 
 ![procedure](./images/procedure.png)
 
-![1](./images/1.png)
+![1](./images/1.png){: width="100" height="50"}
 
-![2](./images/2.png)
+![2](./images/2.png){: width="100" height="50"}
 
-![3](./images/3.png)
+![3](./images/3.png){: width="100" height="50"}
 
-![4](./images/4.png)
+![4](./images/4.png){: width="100" height="50"}
 
-![5](./images/5.png)
+![5](./images/5.png){: width="100" height="50"}
 <br><br>
 ## Notes: Branch, Condition, Jump to the Last Routine<br>
 #### Branch<br>
