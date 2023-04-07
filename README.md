@@ -21,7 +21,8 @@ This is an example of experiment setting, consisted of introduction, consent, st
 
 <img src="./images/5.png" width="500">
 <br><br>
-## Notes: Branch, Condition, Jump to the Last Routine<br>
+
+## Notes: Branch, Condition, Jump to the Last Routine <br>
 #### Branch<br>
 With loop function, different routines will be presented depending on the participants' answer to the previous routine.<br>
 Please check the 'Code' element in each routines.<br>
