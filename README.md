@@ -27,7 +27,7 @@ This is an example of experiment setting, consisted of introduction, consent, st
 With loop function, different routines will be presented depending on the participants' answer to the previous routine.<br>
 Please check the 'Code' element in each routines.<br>
 #### Condition<br>
-(1) With xlsX file, you can present the stimulus in randomized order. The xlsx file should be uploaded in the 'stimuliloop' window (Conditions section).<br>
+(1) With xlsx file, you can present the stimulus in randomized order. The xlsx file should be uploaded in the 'stimuliloop' window (Conditions section).<br>
 (2) Stimulus are presented in random order (loopType = 'random').<br>
 #### Jump to the Last Routine<br>
 Codes were added to skip 'consent' and/or 'stimuli' routine and directly go to the last ('bye') routine.<br>
