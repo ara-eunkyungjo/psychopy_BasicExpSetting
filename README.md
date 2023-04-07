@@ -9,17 +9,17 @@ This is an example of experiment setting, consisted of introduction, consent, st
 
 ## Procedure at a Glance
 
-[](/psychopy_BasicExpSetting/images/procedure.png)
+![](/psychopy_BasicExpSetting/images/procedure.png)
 
-[](/psychopy_BasicExpSetting/images/1.png)
+![](/psychopy_BasicExpSetting/images/1.png)
 
-[](/psychopy_BasicExpSetting/images/2.png)
+![](/psychopy_BasicExpSetting/images/2.png)
 
-[](/psychopy_BasicExpSetting/images/3.png)
+![](/psychopy_BasicExpSetting/images/3.png)
 
-[](/psychopy_BasicExpSetting/images/4.png)
+![](/psychopy_BasicExpSetting/images/4.png)
 
-[](/psychopy_BasicExpSetting/images/5.png)
+![](/psychopy_BasicExpSetting/images/5.png)
 <br><br>
 ## Notes: Branch, Condition, Jump to the Last Routine<br>
 #### Branch<br>
