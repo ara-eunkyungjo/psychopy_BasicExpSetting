@@ -7,4 +7,6 @@ This is an example of experiment setting, consisted of introduction, consent, st
 3. You can also work on '---.py' file if you are familiar to python code.
 <br><br>
 
-## 
+## Procedure at a Glance
+
+<img scr=/images/procedure>
